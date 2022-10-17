@@ -1,5 +1,5 @@
 # Blockchain Ledger
-This application implements a blockchain-based ledger system which mimics how a bank records financial transactions such as money transfers between senders and receivers using the blockchain technology.  The application also verifies the integrity of the data within the ledger.
+This application implements a blockchain-based ledger system which mimics how a bank records financial transactions such as money transfers between senders and receivers using a blockchain.  The application also verifies the integrity of the data within the ledger.
 
 ---
 
